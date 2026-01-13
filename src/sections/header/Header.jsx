@@ -50,7 +50,7 @@ const Header = () => {
                         target="_blank"
 
                         rel="noopener noreferrer"
-                        href={cv} download="Evgeniia - frontend developer">Download CV <HiDownload/></a>
+                        href={cv} download="Eugeniya - frontend developer">Download CV <HiDownload/></a>
                     </div> 
                 </div>
             </div>
